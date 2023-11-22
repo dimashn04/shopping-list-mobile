@@ -1,6 +1,9 @@
 # shopping_list
 
 A new Flutter project.
+[![Build status](https://build.appcenter.ms/v0.1/apps/9be12352-83cd-4fda-8ab3-254a49289c1e/branches/master/badge)](https://appcenter.ms)
+
+https://install.appcenter.ms/orgs/shopping-list-dimashn/apps/shopping-list/distribution_groups/public
 
 Nama    : Dimas Herjunodarpito Notoprayitno
 
